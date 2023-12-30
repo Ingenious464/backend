@@ -7,7 +7,7 @@ def about():
     data = {
         "name": "Adetunji Fatai",
         "gender": "Male",
-        "github_url": "https://github.com/Ingenious464/",
+        "github_url": "https://github.com/Ingenious464",
         "framework": "Flask",
         "location": "Nigeria"
     }
